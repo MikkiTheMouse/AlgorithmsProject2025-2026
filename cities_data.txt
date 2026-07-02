@@ -1,0 +1,151 @@
+#City;population;railway;university;high schools
+Acquaformosa;930;0;0;0
+Acquappesa;1754;1;0;1
+Acri;18059;0;0;5
+Aiello Calabro;1324;0;0;0
+Aieta;703;0;0;0
+Albidona;1047;0;0;0
+Alessandria del Carretto;337;0;0;0
+Altilia;669;0;0;0
+Altomonte;3943;0;0;1
+Amantea;13859;2;0;4
+Amendolara;2590;0;0;0
+Aprigliano;2307;0;0;0
+Belmonte Calabro;1664;0;0;0
+Belsito;892;0;0;0
+Belvedere Marittimo;8927;1;0;1
+Bianchi;1141;0;0;0
+Bisignano;9428;1;0;2
+Bocchigliero;1038;0;0;1
+Bonifati;2504;1;0;0
+Buonvicino;1971;0;0;0
+Calopezzati;1224;1;0;0
+Caloveto;1046;0;0;0
+Campana;1337;0;0;0
+Canna;577;0;0;0
+Cariati;7582;1;0;3
+Carolei;3027;0;0;0
+Carpanzano;185;0;0;0
+Cassano all'Ionio;16337;2;0;4
+Castiglione Cosentino;2731;0;0;0
+Castrolibero;9074;0;0;2
+Castroregio;208;0;0;0
+Castrovillari;20431;0;0;11
+Celico;2421;0;0;0
+Cellara;473;0;0;0
+Cerchiara di Calabria;2074;0;0;0
+Cerisano;2909;0;0;0
+Cervicati;767;0;0;0
+Cerzeto;1208;0;0;0
+Cetraro;9159;1;0;2
+Civita;773;0;0;0
+Cleto;1270;0;0;0
+Colosimi;1077;0;0;0
+Cosenza;63449;2;0;20
+Cropalati;947;0;0;0
+Crosia;9616;1;0;2
+Diamante;4947;1;0;3
+Dipignano;4054;0;0;0
+Domanico;915;0;0;0
+Fagnano Castello;3257;0;0;2
+Falconara Albanese;1507;0;0;0
+Figline Vegliaturo;1088;0;0;0
+Firmo;1758;0;0;0
+Fiumefreddo Bruzio;3979;0;0;0
+Francavilla Marittima;2708;0;0;0
+Frascineto;1812;0;0;1
+Fuscaldo;7923;1;0;2
+Grimaldi;1489;0;0;0
+Grisolia;2161;1;0;0
+Guardia Piemontese;1767;1;0;0
+Lago;2362;0;0;0
+Laino Borgo;1578;0;0;0
+Laino Castello;749;0;0;0
+Lappano;849;0;0;0
+Lattarico;3671;0;0;0
+Longobardi;3218;0;0;0
+Longobucco;2435;0;0;2
+Lungro;2046;0;0;2
+Luzzi;8680;0;0;2
+Maierà;1107;0;0;0
+Malito;681;0;0;0
+Malvito;1567;0;0;0
+Mandatoriccio;2392;1;0;0
+Mangone;1895;0;0;0
+Marano Marchesato;3329;0;0;0
+Marano Principato;2995;0;0;0
+Marzi;939;0;0;0
+Mendicino;8892;0;0;0
+Mongrassano;1446;0;0;0
+Montalto Uffugo;19909;0;0;1
+Montegiordano;1498;0;0;0
+Morano Calabro;3748;0;0;0
+Mormanno;2475;0;0;1
+Mottafollone;1013;0;0;0
+Nocara;284;0;0;0
+Oriolo;1762;0;0;1
+Orsomarso;1056;0;0;0
+Paludi;936;0;0;0
+Panettieri;304;0;0;0
+Paola;15090;4;0;7
+Papasidero;572;0;0;0
+Parenti;1925;0;0;0
+Paterno Calabro;1319;0;0;0
+Pedivigliano;729;0;0;0
+Piane Crati;1278;0;0;0
+Pietrafitta;1118;0;0;0
+Pietrapaola;998;0;0;0
+Plataci;626;0;0;0
+Praia a Mare;6268;2;0;2
+Rende;36893;3;1;4
+Rocca Imperiale;3116;0;0;2
+Roggiano Gravina;6708;0;0;2
+Rogliano;5150;0;0;2
+Rose;4109;0;0;0
+Roseto Capo Spulico;1865;0;0;0
+Rota Greca;891;0;0;0
+Rovito;2901;0;0;0
+San Basile;882;0;0;0
+San Benedetto Ullano;1373;0;0;0
+San Cosmo Albanese;540;0;0;0
+San Demetrio Corone;2955;0;0;1
+San Donato di Ninea;1030;0;0;0
+San Fili;2406;0;0;0
+Sangineto;1202;0;0;0
+San Giorgio Albanese;1256;0;0;0
+San Giovanni in Fiore;15328;0;0;6
+San Lorenzo Bellizzi;501;0;0;0
+San Lorenzo del Vallo;3057;0;0;0
+San Lucido;7775;1;0;0
+San Marco Argentano;6769;1;0;2
+San Martino di Finita;917;0;0;0
+San Nicola Arcella;2018;0;0;0
+San Pietro in Amantea;446;0;0;0
+San Pietro in Guarano;3298;0;0;0
+San Sosti;1839;0;0;1
+Santa Caterina Albanese;1052;0;0;0
+Santa Domenica Talao;1127;0;0;0
+Sant'Agata di Esaro;1703;0;0;1
+Santa Maria del Cedro;5179;1;0;0
+Santa Sofia d'Epiro;2081;0;0;0
+Santo Stefano di Rogliano;1736;0;0;0
+San Vincenzo La Costa;1930;0;0;0
+Saracena;3234;0;0;0
+Scala Coeli;734;0;0;0
+Scalea;11792;3;0;1
+Scigliano;1095;0;0;1
+Serra d'Aiello;521;0;0;0
+Spezzano Albanese;6388;0;0;2
+Spezzano della Sila;4304;0;0;0
+Tarsia;1818;0;0;0
+Terranova da Sibari;4441;0;0;0
+Terravecchia;553;0;0;0
+Torano Castello;4255;0;0;1
+Tortora;5919;0;0;2
+Trebisacce;8582;1;0;4
+Vaccarizzo Albanese;1010;0;0;0
+Verbicaro;2489;0;0;0
+Villapiana;5612;0;0;0
+Zumpano;2589;0;0;0
+Casali del Manco;9269;0;0;0
+Corigliano-Rossano;74403;2;0;15

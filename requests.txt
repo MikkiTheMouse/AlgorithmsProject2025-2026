@@ -1,0 +1,1001 @@
+Source->Destination->Departure
+San Marco Argentano->Luzzi->06:12
+Luzzi->Castrolibero->07:35
+Terranova da Sibari->Pietrafitta->06:23
+Rogliano->Diamante->06:21
+Bisignano->Montalto Uffugo->08:12
+Corigliano-Rossano->Rende->07:07
+San Lucido->Dipignano->08:52
+San Pietro in Guarano->Cosenza->07:09
+Cassano all'Ionio->Acri->08:08
+Luzzi->Corigliano-Rossano->07:19
+Fagnano Castello->Rende->08:02
+Corigliano-Rossano->Cassano all'Ionio->08:00
+Rende->Paola->07:43
+Scalea->Cosenza->08:11
+Luzzi->Montalto Uffugo->07:13
+Cetraro->Rende->06:35
+Paola->Rende->08:27
+Amendolara->Cerisano->08:02
+Scalea->Rende->06:06
+Rende->Longobucco->07:12
+San Lucido->Bonifati->08:52
+Diamante->Cosenza->08:00
+Corigliano-Rossano->Rende->08:50
+Villapiana->Paola->07:19
+San Marco Argentano->Spezzano della Sila->08:00
+Castrovillari->San Lucido->06:49
+Marano Marchesato->Corigliano-Rossano->08:39
+Altomonte->Corigliano-Rossano->07:07
+Castiglione Cosentino->Cosenza->08:45
+Rocca Imperiale->Corigliano-Rossano->07:10
+San Giovanni in Fiore->Rende->07:35
+Corigliano-Rossano->Praia a Mare->07:32
+Cosenza->Terranova da Sibari->07:41
+Fagnano Castello->Paola->09:01
+Marano Principato->Montalto Uffugo->07:27
+Castrovillari->Piane Crati->07:51
+Cassano all'Ionio->Bisignano->07:06
+Mendicino->Castrolibero->07:33
+Cetraro->Praia a Mare->07:17
+Rende->Trebisacce->06:21
+Luzzi->Altomonte->06:17
+Scigliano->Cosenza->08:13
+Rogliano->Roggiano Gravina->08:01
+Cosenza->San Fili->08:28
+Scigliano->Acri->06:03
+Santa Sofia d'Epiro->Cosenza->07:04
+Francavilla Marittima->Spezzano Albanese->06:40
+Cosenza->Paola->08:41
+Rocca Imperiale->San Pietro in Guarano->07:49
+Cassano all'Ionio->Montalto Uffugo->06:46
+Castrovillari->Corigliano-Rossano->08:07
+Acri->Cariati->06:20
+San Pietro in Guarano->Montalto Uffugo->06:57
+Rende->Scalea->06:21
+Rose->Fuscaldo->06:53
+San Martino di Finita->Cosenza->08:16
+Mangone->Cosenza->09:20
+Paterno Calabro->Rende->06:42
+Cassano all'Ionio->Montegiordano->07:31
+Canna->Montegiordano->08:29
+Rende->Torano Castello->09:17
+Marano Principato->San Pietro in Guarano->08:04
+Parenti->Amantea->06:43
+San Lucido->Rende->08:14
+Rende->Mangone->07:08
+Paola->Rende->09:32
+Paola->San Marco Argentano->07:19
+Cosenza->Rende->08:37
+Acri->Corigliano-Rossano->06:05
+Luzzi->Acri->07:24
+Cerisano->San Lucido->08:56
+Grisolia->San Sosti->07:45
+Tarsia->Paola->07:24
+Civita->Corigliano-Rossano->08:53
+Amantea->Rogliano->08:39
+Cosenza->Montalto Uffugo->07:10
+Cosenza->Rende->08:05
+Rende->Santa Maria del Cedro->07:17
+Paola->Rogliano->07:58
+San Pietro in Amantea->Guardia Piemontese->07:01
+Rende->Scalea->06:36
+Grisolia->Amantea->08:13
+Saracena->Castrovillari->09:23
+Castrolibero->Paola->08:55
+Acri->Rende->09:08
+Bisignano->Cosenza->08:36
+San Demetrio Corone->Cetraro->07:59
+Marano Marchesato->Castrolibero->08:55
+Castrolibero->Cosenza->07:50
+Montalto Uffugo->Cosenza->07:40
+Cassano all'Ionio->Corigliano-Rossano->06:48
+Rogliano->Cosenza->08:19
+Luzzi->Rende->07:01
+Fiumefreddo Bruzio->Cosenza->06:50
+Cosenza->Rende->08:14
+Rende->Lappano->07:28
+Dipignano->Cosenza->06:48
+Bisignano->Bonifati->08:09
+Cariati->Mandatoriccio->09:08
+Corigliano-Rossano->Montalto Uffugo->06:29
+Casali del Manco->Rende->06:01
+Rogliano->Rende->07:09
+Cosenza->Falconara Albanese->08:40
+Corigliano-Rossano->Rende->08:24
+San Marco Argentano->Trebisacce->06:25
+Rovito->Corigliano-Rossano->08:05
+Luzzi->Trebisacce->06:19
+Cosenza->Longobucco->07:05
+Bisignano->Rende->09:27
+Casali del Manco->Castrolibero->06:33
+Mandatoriccio->Campana->06:35
+Castrovillari->Corigliano-Rossano->07:20
+Cosenza->Rende->08:22
+Praia a Mare->Paola->08:21
+Castrovillari->Bisignano->09:07
+Terranova da Sibari->Cosenza->06:14
+San Lucido->Castiglione Cosentino->06:27
+San Benedetto Ullano->Paola->08:36
+Longobucco->San Giovanni in Fiore->06:49
+Rende->Fuscaldo->09:05
+Rende->Acri->08:08
+Rende->Roggiano Gravina->06:22
+Belvedere Marittimo->Corigliano-Rossano->07:52
+Lago->Corigliano-Rossano->06:25
+Altomonte->Rende->07:20
+Montalto Uffugo->Cariati->07:14
+Cosenza->Casali del Manco->07:31
+Cassano all'Ionio->San Donato di Ninea->08:08
+Bocchigliero->Mangone->07:32
+Rende->Amantea->09:11
+Castrolibero->San Giovanni in Fiore->08:47
+Corigliano-Rossano->Carolei->07:24
+Praia a Mare->Scalea->06:21
+Crosia->Rende->07:48
+Rende->Belvedere Marittimo->08:56
+Acri->Rende->07:01
+Corigliano-Rossano->Marano Principato->07:15
+Mendicino->Rende->07:33
+San Nicola Arcella->Paola->06:08
+Belvedere Marittimo->Saracena->07:40
+Mendicino->Villapiana->06:56
+Montalto Uffugo->Acri->08:32
+Corigliano-Rossano->Cosenza->08:24
+Piane Crati->Rende->08:55
+Mendicino->Acri->07:17
+Cosenza->Fiumefreddo Bruzio->07:02
+Cosenza->Corigliano-Rossano->08:09
+Montalto Uffugo->Corigliano-Rossano->08:16
+Luzzi->Castrolibero->07:42
+Acri->Rende->08:52
+Scalea->Parenti->06:15
+Villapiana->Corigliano-Rossano->08:59
+Cassano all'Ionio->Oriolo->06:16
+Paola->Rende->06:33
+Buonvicino->Cosenza->07:18
+Rende->Casali del Manco->06:12
+Cosenza->Montalto Uffugo->06:12
+Rende->San Marco Argentano->06:00
+San Donato di Ninea->Rose->07:18
+San Lucido->Corigliano-Rossano->07:56
+Bonifati->Corigliano-Rossano->06:05
+Corigliano-Rossano->Acri->08:07
+Cetraro->Sant'Agata di Esaro->08:44
+Altilia->Cassano all'Ionio->06:27
+Paola->Rende->06:32
+Fagnano Castello->Rende->08:39
+Scalea->Santa Maria del Cedro->09:05
+Santo Stefano di Rogliano->Fuscaldo->07:39
+Cosenza->San Marco Argentano->08:41
+Corigliano-Rossano->Grimaldi->06:14
+Cosenza->Rende->07:30
+Montalto Uffugo->San Lorenzo del Vallo->08:26
+Cosenza->Castrolibero->06:59
+Corigliano-Rossano->Cetraro->07:55
+Castrolibero->Lattarico->07:46
+Amantea->Aprigliano->08:11
+Lungro->Rende->07:26
+Corigliano-Rossano->Spezzano della Sila->06:58
+Villapiana->Cosenza->06:37
+San Giovanni in Fiore->Torano Castello->06:31
+Villapiana->Cassano all'Ionio->08:31
+Villapiana->Rende->06:20
+Montalto Uffugo->Trebisacce->06:14
+Cosenza->San Lucido->06:36
+San Marco Argentano->Cosenza->06:34
+Rende->Santa Maria del Cedro->08:10
+Falconara Albanese->Cosenza->07:20
+Bisignano->Montalto Uffugo->09:26
+San Giovanni in Fiore->Rovito->06:26
+Cosenza->Colosimi->08:07
+Corigliano-Rossano->Cetraro->07:09
+Cosenza->Altomonte->07:15
+Cariati->Corigliano-Rossano->08:54
+Scalea->Casali del Manco->07:23
+Castiglione Cosentino->Aiello Calabro->08:40
+Castrovillari->Castrolibero->06:34
+Rende->Castrolibero->06:50
+Trebisacce->Acri->07:55
+Castrovillari->Scalea->06:48
+Cosenza->Rovito->08:46
+San Marco Argentano->San Lucido->07:48
+Corigliano-Rossano->Rende->07:34
+Montalto Uffugo->Cosenza->09:01
+Cassano all'Ionio->Rose->08:13
+Acri->Crosia->06:05
+Cetraro->San Lucido->06:10
+Cassano all'Ionio->Castrovillari->08:12
+Rende->Corigliano-Rossano->07:23
+Cariati->Corigliano-Rossano->06:52
+Montalto Uffugo->Mendicino->07:27
+Roggiano Gravina->Corigliano-Rossano->08:21
+Praia a Mare->Scalea->09:04
+Castrovillari->Corigliano-Rossano->07:47
+Santa Sofia d'Epiro->Belvedere Marittimo->06:58
+Rovito->Rende->06:59
+San Giovanni in Fiore->Cosenza->07:32
+Cassano all'Ionio->Castrolibero->06:56
+Carolei->Celico->08:01
+Corigliano-Rossano->Cassano all'Ionio->08:15
+Fuscaldo->Montalto Uffugo->06:13
+Cosenza->Rende->06:00
+Mongrassano->Cosenza->06:42
+Rende->San Vincenzo La Costa->09:20
+Corigliano-Rossano->Lungro->08:01
+Cosenza->Paola->06:36
+Corigliano-Rossano->Cariati->08:57
+Acri->San Fili->07:29
+Paola->Rende->07:43
+Rende->Malito->09:11
+Bonifati->Mendicino->06:10
+Cassano all'Ionio->Paludi->06:38
+Lappano->San Giovanni in Fiore->07:47
+Corigliano-Rossano->Paola->06:30
+Rende->Cassano all'Ionio->08:06
+Corigliano-Rossano->Castrovillari->06:41
+Santa Sofia d'Epiro->Cassano all'Ionio->06:18
+Marano Principato->Cariati->06:26
+San Pietro in Guarano->Calopezzati->06:56
+Acri->Montalto Uffugo->06:34
+Buonvicino->Praia a Mare->06:25
+Scalea->San Pietro in Guarano->07:47
+Sant'Agata di Esaro->San Lucido->06:55
+Cetraro->Corigliano-Rossano->06:55
+Mormanno->Tortora->06:10
+Rende->Cetraro->07:11
+Torano Castello->San Lucido->06:49
+Rende->Celico->08:13
+Guardia Piemontese->Corigliano-Rossano->06:34
+Falconara Albanese->Paola->09:12
+Longobardi->Amantea->09:21
+Rende->Rose->06:21
+Torano Castello->San Demetrio Corone->06:20
+Malvito->Cosenza->06:20
+Cosenza->Bisignano->08:10
+Colosimi->Corigliano-Rossano->06:16
+San Giovanni in Fiore->Rende->08:23
+Saracena->Spezzano Albanese->08:34
+Bonifati->Cosenza->08:19
+Aprigliano->Cetraro->07:28
+Rende->Cariati->08:13
+Cassano all'Ionio->Santa Maria del Cedro->06:07
+Scalea->Malvito->07:04
+Cosenza->Rovito->07:13
+Cassano all'Ionio->Rogliano->08:41
+Corigliano-Rossano->Bisignano->07:44
+Castrolibero->Mendicino->09:03
+Cosenza->Mormanno->06:29
+Castiglione Cosentino->Calopezzati->08:18
+Cariati->Bonifati->06:48
+Acri->Rende->07:35
+Amantea->Pedivigliano->09:10
+Castrovillari->Acri->07:05
+Amantea->Mendicino->07:15
+Rende->Belvedere Marittimo->07:45
+Rocca Imperiale->Amendolara->06:27
+Fuscaldo->Castrovillari->06:52
+Cosenza->San Martino di Finita->06:39
+Montalto Uffugo->Lattarico->06:23
+Trebisacce->Amantea->07:48
+Spezzano della Sila->Trebisacce->07:31
+Altomonte->Corigliano-Rossano->07:05
+Castrovillari->Cosenza->07:16
+Cosenza->Acquaformosa->07:18
+Cosenza->Campana->07:26
+Piane Crati->Guardia Piemontese->08:43
+Laino Borgo->Cosenza->08:26
+Amantea->Cosenza->07:14
+Falconara Albanese->Cosenza->07:06
+Morano Calabro->Acri->07:12
+Bisignano->Corigliano-Rossano->07:43
+Scigliano->Rovito->07:28
+Amantea->Guardia Piemontese->08:06
+Corigliano-Rossano->Cariati->07:50
+Bisignano->San Pietro in Guarano->07:05
+Spezzano Albanese->Verbicaro->06:47
+Casali del Manco->Castrolibero->07:06
+Corigliano-Rossano->San Basile->06:17
+Santa Maria del Cedro->Roseto Capo Spulico->06:17
+San Marco Argentano->Corigliano-Rossano->08:11
+Rende->Montalto Uffugo->07:24
+San Marco Argentano->Zumpano->06:40
+Cassano all'Ionio->Cosenza->07:45
+Paludi->Morano Calabro->07:58
+Montalto Uffugo->San Demetrio Corone->06:47
+Terranova da Sibari->Fuscaldo->08:21
+Marano Marchesato->Cosenza->09:29
+Francavilla Marittima->Campana->07:25
+Rende->Montalto Uffugo->08:24
+Cosenza->Firmo->06:10
+Cassano all'Ionio->Montalto Uffugo->08:56
+Mendicino->Cosenza->07:29
+Laino Borgo->San Lorenzo del Vallo->08:42
+Cetraro->Corigliano-Rossano->07:29
+Domanico->Spezzano della Sila->06:01
+Domanico->Aprigliano->06:08
+Cosenza->Trebisacce->07:55
+Fiumefreddo Bruzio->Acri->07:30
+Roggiano Gravina->Celico->06:05
+Cosenza->Rende->08:50
+Corigliano-Rossano->Diamante->07:48
+Corigliano-Rossano->Albidona->07:32
+Mendicino->Montalto Uffugo->07:36
+Cosenza->Vaccarizzo Albanese->06:01
+Orsomarso->Tortora->08:34
+Spezzano della Sila->Montalto Uffugo->07:07
+Rende->Rovito->09:11
+Santa Sofia d'Epiro->Castrolibero->07:11
+Nocara->Cosenza->07:05
+Rende->Luzzi->06:57
+Cosenza->Paola->06:33
+San Giorgio Albanese->Corigliano-Rossano->08:44
+Castrovillari->Corigliano-Rossano->07:34
+Rogliano->Amantea->07:40
+Terranova da Sibari->Villapiana->09:07
+Cassano all'Ionio->Castrovillari->09:31
+Rende->Cosenza->09:16
+Bisignano->Paola->06:35
+San Demetrio Corone->Corigliano-Rossano->08:03
+Belvedere Marittimo->Corigliano-Rossano->07:59
+Corigliano-Rossano->Cetraro->06:57
+Cassano all'Ionio->Guardia Piemontese->06:18
+Corigliano-Rossano->Marzi->08:07
+Santa Maria del Cedro->Paola->07:25
+Rende->Buonvicino->07:27
+San Nicola Arcella->Montalto Uffugo->08:03
+Sant'Agata di Esaro->Altomonte->08:02
+Corigliano-Rossano->Cropalati->07:28
+Cosenza->Castiglione Cosentino->07:23
+Rende->Belvedere Marittimo->07:15
+Bisignano->Paola->06:22
+Rende->Cosenza->09:02
+Castrolibero->San Sosti->08:26
+Papasidero->San Giorgio Albanese->06:37
+Pietrafitta->Aiello Calabro->06:57
+Marano Marchesato->Scalea->08:07
+Montegiordano->Castrovillari->06:04
+San Lucido->Paola->08:00
+Santa Maria del Cedro->Cosenza->07:09
+Montalto Uffugo->Amantea->08:01
+Rende->Castrolibero->06:37
+Corigliano-Rossano->Castrovillari->08:07
+Cariati->San Giorgio Albanese->07:06
+Cariati->Crosia->08:11
+Bisignano->Buonvicino->06:05
+Rende->San Lucido->07:39
+Lappano->Fuscaldo->07:37
+San Marco Argentano->Marano Principato->06:40
+Rende->Casali del Manco->06:24
+Cosenza->Corigliano-Rossano->06:33
+Zumpano->Guardia Piemontese->07:02
+San Lucido->Marano Principato->06:20
+Cosenza->Laino Castello->08:35
+Dipignano->Rende->07:25
+Cosenza->San Giovanni in Fiore->08:22
+Castiglione Cosentino->Corigliano-Rossano->08:43
+Cassano all'Ionio->Terranova da Sibari->06:17
+Corigliano-Rossano->Cetraro->07:40
+Luzzi->Bisignano->09:14
+Fiumefreddo Bruzio->Roggiano Gravina->07:47
+San Fili->Oriolo->06:56
+Paola->Praia a Mare->07:05
+Corigliano-Rossano->Cetraro->06:06
+San Martino di Finita->Acri->07:41
+Mendicino->Fiumefreddo Bruzio->09:14
+Figline Vegliaturo->Rende->09:22
+Corigliano-Rossano->San Pietro in Guarano->06:06
+San Basile->Rende->08:03
+Corigliano-Rossano->Francavilla Marittima->07:01
+Cariati->Mormanno->07:56
+Spezzano della Sila->San Lucido->06:09
+Rende->Mendicino->09:24
+Cariati->Corigliano-Rossano->08:47
+Rende->Amantea->06:23
+Roggiano Gravina->Cosenza->06:12
+Acri->Cosenza->08:42
+Malvito->Mangone->06:25
+Scalea->Montalto Uffugo->07:10
+Cosenza->Rende->09:29
+Mangone->Cassano all'Ionio->07:37
+Luzzi->Fuscaldo->07:13
+Cosenza->Rende->07:42
+Corigliano-Rossano->Amendolara->06:12
+San Martino di Finita->San Basile->08:47
+Calopezzati->Crosia->07:09
+Corigliano-Rossano->Trebisacce->06:38
+Trebisacce->Luzzi->06:48
+Cosenza->Montalto Uffugo->09:31
+Spezzano Albanese->Cervicati->06:19
+Bonifati->Rende->08:35
+Corigliano-Rossano->Casali del Manco->07:30
+Rende->Spezzano Albanese->08:46
+Rende->Roggiano Gravina->09:15
+Bisignano->Cosenza->08:56
+Zumpano->Cassano all'Ionio->08:48
+Acri->Trebisacce->06:22
+Cosenza->Altilia->08:44
+Cassano all'Ionio->Rende->07:41
+San Marco Argentano->Rogliano->07:38
+Castrovillari->Torano Castello->08:50
+Casali del Manco->Torano Castello->08:27
+Rende->San Giovanni in Fiore->07:59
+Albidona->Castrovillari->07:23
+Acri->Amantea->07:08
+Amantea->Fuscaldo->07:18
+Rende->Cetraro->07:12
+Santa Maria del Cedro->Rende->07:02
+Cosenza->Acri->06:17
+Spezzano della Sila->Rende->06:17
+Amantea->Rende->08:30
+Santa Maria del Cedro->Paola->07:19
+Corigliano-Rossano->Cassano all'Ionio->09:06
+San Marco Argentano->Cosenza->08:00
+Rogliano->Malito->06:08
+Spezzano Albanese->Cosenza->06:32
+Altomonte->Cosenza->06:39
+Castrovillari->Corigliano-Rossano->09:05
+Carolei->Guardia Piemontese->06:39
+Montalto Uffugo->Lattarico->07:56
+San Giovanni in Fiore->Rende->08:38
+Rende->Lago->09:12
+Spezzano della Sila->Trebisacce->06:37
+Castiglione Cosentino->Luzzi->06:10
+San Giorgio Albanese->Corigliano-Rossano->06:32
+Castrovillari->Rose->06:12
+Cosenza->Lappano->06:43
+Roseto Capo Spulico->Longobucco->07:20
+Corigliano-Rossano->San Demetrio Corone->09:10
+Rende->Cosenza->08:03
+Amantea->Paola->08:11
+Rende->Cosenza->06:46
+Altomonte->San Giovanni in Fiore->07:43
+Trebisacce->Corigliano-Rossano->08:05
+Roseto Capo Spulico->Cerchiara di Calabria->08:44
+Castrolibero->Corigliano-Rossano->08:38
+Bisignano->Crosia->06:55
+Castrovillari->Diamante->06:14
+Corigliano-Rossano->San Demetrio Corone->06:47
+Mangone->Cassano all'Ionio->07:15
+San Pietro in Amantea->San Benedetto Ullano->08:35
+Rende->Marzi->07:19
+Pietrafitta->Acri->08:15
+Cassano all'Ionio->San Lorenzo del Vallo->07:56
+Corigliano-Rossano->Cropalati->06:38
+Cosenza->Rende->07:13
+Praia a Mare->Firmo->07:37
+Rogliano->Rende->08:19
+Rende->Praia a Mare->06:58
+Corigliano-Rossano->Cosenza->06:40
+Cassano all'Ionio->Trebisacce->08:25
+Montalto Uffugo->Parenti->06:30
+Fuscaldo->Corigliano-Rossano->08:19
+Mendicino->Amantea->06:36
+Cariati->Rende->06:14
+Cassano all'Ionio->Cosenza->07:33
+Cosenza->Mendicino->07:57
+Cosenza->Rende->07:56
+Longobardi->Morano Calabro->06:56
+Rende->Cosenza->09:48
+Rende->Mangone->07:42
+Guardia Piemontese->San Lucido->07:42
+Grisolia->Spezzano Albanese->06:59
+Cerzeto->Marzi->06:12
+Rende->Amantea->07:54
+Cosenza->San Marco Argentano->06:45
+Albidona->Bonifati->07:13
+Lappano->Cosenza->06:11
+Mendicino->Amantea->09:06
+Cetraro->Montalto Uffugo->07:25
+Pietrafitta->Amantea->08:36
+Parenti->Cosenza->07:34
+Rogliano->Corigliano-Rossano->06:09
+Rende->Paterno Calabro->08:49
+Rende->Rota Greca->08:11
+Cosenza->San Lucido->08:40
+San Pietro in Guarano->Rende->07:31
+Paola->Laino Borgo->07:26
+Longobucco->Mormanno->07:40
+Rende->Firmo->08:01
+Dipignano->Bisignano->07:07
+Montalto Uffugo->Rende->08:23
+San Giovanni in Fiore->Campana->08:02
+Vaccarizzo Albanese->Mendicino->08:35
+Corigliano-Rossano->Bisignano->07:07
+Montalto Uffugo->Fuscaldo->07:25
+Montalto Uffugo->Corigliano-Rossano->08:18
+Santa Maria del Cedro->Firmo->07:14
+Cosenza->San Giovanni in Fiore->08:09
+Spezzano Albanese->Cosenza->07:33
+Montalto Uffugo->Cariati->06:29
+Cariati->Cassano all'Ionio->08:01
+Belsito->Malito->06:30
+Spezzano Albanese->San Fili->06:39
+Amantea->Praia a Mare->07:18
+Cosenza->Montalto Uffugo->08:43
+Cosenza->Corigliano-Rossano->08:35
+Castrolibero->Corigliano-Rossano->06:45
+Cosenza->San Giovanni in Fiore->06:19
+San Giovanni in Fiore->Marano Marchesato->08:37
+Acri->Falconara Albanese->06:26
+Scalea->Rende->06:29
+Terranova da Sibari->Cosenza->06:58
+Fagnano Castello->Vaccarizzo Albanese->07:28
+Castiglione Cosentino->Calopezzati->08:04
+Rende->Castrovillari->08:19
+Cariati->San Demetrio Corone->08:00
+Dipignano->San Giovanni in Fiore->06:28
+Corigliano-Rossano->Marano Marchesato->07:00
+Corigliano-Rossano->Trebisacce->07:37
+San Marco Argentano->Cosenza->06:29
+Cosenza->San Benedetto Ullano->06:57
+Roggiano Gravina->Francavilla Marittima->06:59
+Rose->Luzzi->06:28
+Francavilla Marittima->Corigliano-Rossano->07:51
+Rende->Montalto Uffugo->08:32
+Acri->Cosenza->06:14
+Cerchiara di Calabria->Francavilla Marittima->07:46
+Morano Calabro->Cosenza->08:17
+Castrolibero->Fagnano Castello->08:15
+Castrolibero->Montalto Uffugo->08:52
+Spezzano Albanese->Castrovillari->07:36
+Corigliano-Rossano->Saracena->08:29
+Paola->Rende->06:52
+Spezzano Albanese->Lungro->07:16
+Corigliano-Rossano->Scalea->06:21
+Cassano all'Ionio->Rende->07:27
+Luzzi->Santa Maria del Cedro->06:52
+Fuscaldo->Bisignano->06:44
+Belvedere Marittimo->Rende->08:15
+San Lorenzo del Vallo->San Lucido->06:56
+Lungro->Castrovillari->06:55
+Marano Principato->Mendicino->06:30
+Cassano all'Ionio->Corigliano-Rossano->07:28
+Castrovillari->Cosenza->06:56
+Casali del Manco->Paola->06:57
+Amantea->Aiello Calabro->06:52
+Cetraro->Corigliano-Rossano->07:57
+Cosenza->Rende->09:33
+Mongrassano->Corigliano-Rossano->07:27
+Rende->Altomonte->08:01
+Montalto Uffugo->Bisignano->09:00
+Belvedere Marittimo->Corigliano-Rossano->08:15
+Cosenza->Amantea->07:56
+Spezzano Albanese->Verbicaro->08:02
+Rende->Mendicino->09:18
+Rende->Praia a Mare->07:45
+Rende->Villapiana->07:17
+San Lucido->Montalto Uffugo->06:16
+Amantea->Roggiano Gravina->06:03
+Domanico->Cosenza->07:45
+Paola->Belvedere Marittimo->07:38
+Cosenza->Corigliano-Rossano->07:10
+Spezzano Albanese->Corigliano-Rossano->07:54
+Mendicino->Rende->08:00
+San Lucido->Corigliano-Rossano->08:05
+Tarsia->Belvedere Marittimo->06:18
+Montalto Uffugo->Longobardi->06:39
+Casali del Manco->San Giovanni in Fiore->08:27
+Rende->Amantea->08:43
+Spezzano della Sila->San Fili->09:28
+Cropalati->San Demetrio Corone->08:36
+Montalto Uffugo->Cosenza->09:14
+Mottafollone->Cassano all'Ionio->06:58
+Bonifati->Cetraro->07:28
+Fuscaldo->Paola->07:01
+Corigliano-Rossano->Amantea->07:18
+Rende->Lattarico->09:20
+Castrovillari->Cariati->06:53
+Cosenza->Corigliano-Rossano->07:36
+Castrovillari->Rende->06:54
+Acri->San Fili->06:32
+Corigliano-Rossano->Cassano all'Ionio->06:39
+Luzzi->Sant'Agata di Esaro->06:10
+Cosenza->Roggiano Gravina->09:12
+Rende->Castrolibero->07:31
+Acri->Cariati->08:11
+Cosenza->Mendicino->08:34
+Rose->Bisignano->06:41
+Rende->Luzzi->06:37
+Corigliano-Rossano->San Giovanni in Fiore->07:47
+Rende->Cosenza->07:01
+Mendicino->Cosenza->09:26
+San Lucido->Fiumefreddo Bruzio->06:32
+Casali del Manco->Cosenza->08:04
+San Cosmo Albanese->Cosenza->08:23
+Corigliano-Rossano->Morano Calabro->06:42
+San Nicola Arcella->Castrolibero->06:36
+Torano Castello->Rende->09:19
+Campana->Casali del Manco->06:38
+Sangineto->Montegiordano->06:42
+Luzzi->Cosenza->07:32
+Paola->Rende->06:55
+Rende->San Fili->09:00
+Corigliano-Rossano->Rende->08:12
+Corigliano-Rossano->San Lucido->06:56
+Cosenza->Paola->08:53
+San Giorgio Albanese->Crosia->06:40
+San Giovanni in Fiore->Corigliano-Rossano->06:01
+Crosia->Paola->07:14
+Carolei->Cetraro->08:55
+Altomonte->Mendicino->06:07
+San Marco Argentano->San Lorenzo del Vallo->06:44
+Mongrassano->San Marco Argentano->08:01
+Corigliano-Rossano->San Marco Argentano->08:27
+Marano Marchesato->Rende->06:21
+Corigliano-Rossano->Rogliano->07:02
+Guardia Piemontese->Roggiano Gravina->08:32
+Santa Caterina Albanese->Trebisacce->07:03
+Belvedere Marittimo->Corigliano-Rossano->06:26
+Paola->Rende->06:42
+Santa Maria del Cedro->Rovito->06:56
+Corigliano-Rossano->Cariati->07:35
+Scalea->Cosenza->07:59
+Albidona->Corigliano-Rossano->07:59
+Fagnano Castello->Corigliano-Rossano->07:58
+Amantea->Cosenza->09:06
+Buonvicino->Rende->07:04
+Rende->Corigliano-Rossano->07:09
+Rovito->Castrovillari->08:40
+San Marco Argentano->Laino Borgo->06:41
+Torano Castello->Luzzi->08:32
+San Giovanni in Fiore->Cosenza->08:13
+Santa Maria del Cedro->Orsomarso->06:22
+Amantea->Cosenza->07:29
+Cleto->Cosenza->06:37
+Rende->Cosenza->06:42
+Terranova da Sibari->Montalto Uffugo->07:30
+Acquappesa->Trebisacce->06:45
+Montalto Uffugo->San Giovanni in Fiore->08:04
+Rende->Corigliano-Rossano->08:35
+Acri->Zumpano->08:32
+Fuscaldo->San Lucido->06:59
+Villapiana->Corigliano-Rossano->06:56
+Rende->Casali del Manco->06:45
+Cosenza->Acri->06:26
+Tarsia->Cosenza->09:18
+Crosia->San Demetrio Corone->07:14
+Tarsia->Mormanno->06:42
+Cosenza->Rende->09:14
+Rende->Belvedere Marittimo->07:12
+Fuscaldo->Luzzi->06:06
+Cosenza->Malvito->06:29
+Vaccarizzo Albanese->Rende->07:49
+Castrovillari->Montalto Uffugo->08:24
+Belvedere Marittimo->Corigliano-Rossano->06:28
+Crosia->Bisignano->08:25
+San Basile->Montalto Uffugo->08:27
+Santo Stefano di Rogliano->Bisignano->08:47
+Corigliano-Rossano->Zumpano->06:37
+Cosenza->Rende->06:12
+Grisolia->Praia a Mare->08:53
+Cassano all'Ionio->Francavilla Marittima->07:05
+Pietrapaola->Villapiana->07:38
+Corigliano-Rossano->Villapiana->08:35
+Rogliano->San Marco Argentano->06:23
+Rende->Carolei->08:50
+Fuscaldo->Belvedere Marittimo->09:09
+Corigliano-Rossano->Acri->08:21
+Montalto Uffugo->Cerisano->07:30
+Cassano all'Ionio->Cosenza->08:44
+Dipignano->Scalea->07:03
+Aprigliano->Diamante->07:44
+Castrovillari->Corigliano-Rossano->08:36
+Acri->Mendicino->08:18
+Malito->Corigliano-Rossano->06:44
+Rende->Mangone->06:25
+Crosia->Castrovillari->06:40
+Lattarico->Castrolibero->07:45
+Corigliano-Rossano->Mendicino->07:22
+San Lorenzo del Vallo->Acri->07:49
+Paola->Cassano all'Ionio->07:06
+Cosenza->Morano Calabro->08:18
+Zumpano->Carolei->09:17
+Cleto->Rende->06:43
+Cosenza->Spezzano della Sila->08:43
+Casali del Manco->Rovito->08:12
+Mormanno->Guardia Piemontese->07:23
+San Giovanni in Fiore->Luzzi->06:29
+Rende->Belvedere Marittimo->08:23
+Rende->San Benedetto Ullano->09:20
+Cosenza->Rende->08:45
+Cosenza->Altomonte->08:55
+Cosenza->Scalea->08:16
+Castiglione Cosentino->Montalto Uffugo->07:15
+Tortora->Corigliano-Rossano->07:19
+Cosenza->Montalto Uffugo->07:44
+Paola->Tarsia->09:07
+San Sosti->Trebisacce->06:16
+San Pietro in Amantea->Cosenza->07:18
+Luzzi->Cassano all'Ionio->08:42
+Mendicino->Cerisano->07:06
+Corigliano-Rossano->Tortora->07:38
+Rende->Corigliano-Rossano->07:05
+Saracena->Crosia->08:33
+Casali del Manco->Castiglione Cosentino->08:43
+San Pietro in Guarano->Rende->07:04
+Castrovillari->Guardia Piemontese->08:16
+Paola->Vaccarizzo Albanese->06:51
+Bisignano->Corigliano-Rossano->07:50
+Rende->Rovito->08:23
+Corigliano-Rossano->Lungro->08:35
+Montalto Uffugo->Rende->06:05
+Longobucco->Corigliano-Rossano->06:41
+Aieta->Saracena->07:47
+Corigliano-Rossano->Mendicino->07:31
+Bocchigliero->Cassano all'Ionio->07:07
+Altomonte->Montalto Uffugo->06:10
+Cosenza->Belvedere Marittimo->06:59
+Amendolara->Corigliano-Rossano->08:47
+Malvito->Scalea->06:05
+Montalto Uffugo->San Pietro in Guarano->07:22
+Cosenza->San Giorgio Albanese->08:43
+Amantea->Fagnano Castello->06:09
+Calopezzati->Corigliano-Rossano->08:37
+Fiumefreddo Bruzio->Corigliano-Rossano->06:36
+Amantea->Saracena->07:57
+Rogliano->Mangone->08:51
+Celico->Verbicaro->07:45
+Cosenza->Rende->06:49
+Fuscaldo->Cetraro->07:57
+Laino Borgo->Mormanno->08:50
+Acquappesa->Carolei->06:44
+Caloveto->Cassano all'Ionio->06:39
+Torano Castello->Amendolara->06:04
+Acquappesa->Acri->08:31
+Montalto Uffugo->Paola->08:22
+Mongrassano->Rocca Imperiale->07:32
+Cosenza->Corigliano-Rossano->08:09
+Longobucco->Montalto Uffugo->07:19
+San Martino di Finita->Cetraro->07:26
+Spezzano Albanese->Rende->07:30
+Cosenza->Cervicati->08:06
+Cosenza->Scalea->06:28
+Cosenza->Amantea->08:48
+Mendicino->Lattarico->08:46
+Rocca Imperiale->Corigliano-Rossano->07:01
+Cetraro->Rende->07:55
+Cosenza->Casali del Manco->06:26
+Corigliano-Rossano->Castrolibero->08:42
+Amantea->Cosenza->08:51
+Mangone->Trebisacce->08:22
+Rota Greca->Fuscaldo->07:08
+Cassano all'Ionio->Corigliano-Rossano->06:34
+Amantea->Cetraro->06:40
+Cassano all'Ionio->Luzzi->06:17
+Corigliano-Rossano->Aprigliano->06:18
+Acri->Castrovillari->06:12
+Castrovillari->Morano Calabro->09:46
+Acri->Corigliano-Rossano->06:14
+Calopezzati->Crosia->06:30
+Rende->Cosenza->09:09
+Cosenza->Amantea->07:50
+Paterno Calabro->Saracena->08:02
+Rende->Belvedere Marittimo->07:53
+Spezzano della Sila->Rende->09:09
+Acquappesa->Corigliano-Rossano->07:39
+Tarsia->Panettieri->07:19
+Rende->Cosenza->08:43
+Castrolibero->Cosenza->07:43
+San Marco Argentano->Crosia->06:55
+Terranova da Sibari->Bocchigliero->07:05
+Cosenza->Castrolibero->06:39
+Corigliano-Rossano->Aprigliano->08:02
+Malvito->Nocara->06:28
+Rende->Cerchiara di Calabria->06:25
+Corigliano-Rossano->San Lucido->06:37
+Dipignano->Cosenza->09:05
+Saracena->Acri->06:54
+Cosenza->San Pietro in Guarano->08:28
+Santa Maria del Cedro->Cosenza->08:07
+Rende->Castrovillari->06:14
+Cervicati->Rogliano->08:17
+Lago->Grimaldi->07:05
+Cosenza->San Marco Argentano->06:43
+Belvedere Marittimo->Mandatoriccio->07:03
+Acri->Casali del Manco->08:24
+Crosia->Paola->06:38
+Acri->Mormanno->07:27
+Castrolibero->Mendicino->07:06
+San Demetrio Corone->Trebisacce->07:48
+Rose->Scalea->07:19
+San Giovanni in Fiore->Cosenza->07:47
+Cosenza->San Marco Argentano->08:03
+Villapiana->Albidona->06:28
+Rende->Calopezzati->07:40
+Carolei->Rende->08:27
+Cassano all'Ionio->Roggiano Gravina->08:18
+Roggiano Gravina->Casali del Manco->06:11
+Castrolibero->Casali del Manco->07:18
+Montalto Uffugo->Paola->07:22
+Corigliano-Rossano->Spezzano Albanese->06:17
+Acquappesa->San Lucido->06:47
+Acri->Luzzi->07:32
+Corigliano-Rossano->Terranova da Sibari->08:31
+Rende->Acri->06:46
+Carolei->Santa Maria del Cedro->07:53
+Zumpano->Celico->08:04
+Trebisacce->Pietrafitta->07:55
+Paludi->Rogliano->07:02
+Rende->Cosenza->07:54
+Cosenza->Luzzi->08:12
+Amantea->Diamante->08:30
+Rende->Cariati->07:06
+Cosenza->Rende->08:01
+Rende->Scalea->07:29
+Spezzano Albanese->Castrolibero->08:24
+Acri->Montalto Uffugo->06:14
+Rende->Cassano all'Ionio->07:36
+Cetraro->Torano Castello->07:25
+Tortora->Villapiana->07:53
+Cosenza->Castrolibero->07:53
+Rende->Cosenza->07:47
+Paola->Rende->09:29
+Fuscaldo->Firmo->07:17
+Rende->Corigliano-Rossano->06:31
+San Demetrio Corone->Corigliano-Rossano->06:45
+Parenti->Rose->06:17
+San Lucido->Cassano all'Ionio->06:00
+Corigliano-Rossano->San Giovanni in Fiore->06:57
+Lappano->Verbicaro->07:29
+Montalto Uffugo->San Giovanni in Fiore->07:54
+Acri->Cosenza->06:06
+Sant'Agata di Esaro->Lago->07:19
+Montalto Uffugo->Corigliano-Rossano->06:26
+Grisolia->Praia a Mare->09:08
+Bisignano->Montalto Uffugo->06:35
+Verbicaro->Corigliano-Rossano->07:12
+Fuscaldo->Cosenza->07:05
+Rocca Imperiale->Scalea->07:05
+Cassano all'Ionio->Casali del Manco->06:55
+Corigliano-Rossano->Montalto Uffugo->08:09
+Castrovillari->Cassano all'Ionio->06:51
+Castrovillari->Casali del Manco->07:58
+Terranova da Sibari->Rende->07:38
+Corigliano-Rossano->Acri->08:27
+Cerisano->Cosenza->09:10
+Marano Principato->Parenti->09:05
+San Giorgio Albanese->Castrovillari->06:41
+Trebisacce->Diamante->06:36
+Firmo->Villapiana->06:48
+Montalto Uffugo->Saracena->06:46
+San Giovanni in Fiore->Lago->07:25
+San Fili->Tarsia->09:24
+San Nicola Arcella->Rende->08:20
+Pedivigliano->Mendicino->07:42
+Bonifati->Cassano all'Ionio->07:35
+Casali del Manco->Cosenza->08:37
+Torano Castello->Mangone->09:00
+Santa Maria del Cedro->Bisignano->06:28
+Bisignano->Spezzano Albanese->07:51
+Celico->Cosenza->09:07
+San Giovanni in Fiore->Montalto Uffugo->06:47
+Acri->Rende->07:25
+Corigliano-Rossano->Rovito->08:39
+Firmo->Cariati->08:34
+San Benedetto Ullano->Mendicino->09:01
+Verbicaro->Castiglione Cosentino->07:39
+Fuscaldo->Cosenza->06:54
+Cosenza->San Sosti->06:58
+Rende->Cosenza->08:05
+Praia a Mare->Scalea->08:05
+Grisolia->Corigliano-Rossano->06:56
+Rende->Castrovillari->07:57
+Corigliano-Rossano->Cerisano->07:05
+Marano Principato->Castrolibero->08:56
+Castrovillari->Scalea->06:55
+Firmo->Cassano all'Ionio->07:09
+Fuscaldo->Cetraro->06:28
+Cassano all'Ionio->Castrolibero->06:34
+Castrolibero->Cosenza->09:15
+Roggiano Gravina->Bonifati->07:18
+Cosenza->Corigliano-Rossano->06:39
+Corigliano-Rossano->Longobucco->08:22
+Cosenza->Amantea->07:45
+Bisignano->San Marco Argentano->06:04
+San Lorenzo del Vallo->Cosenza->07:04
+Trebisacce->Rende->06:30
+Cosenza->Mendicino->08:28
+Castrovillari->Corigliano-Rossano->06:52
+Castrovillari->Longobucco->06:09
+Montalto Uffugo->Corigliano-Rossano->06:09
+Marano Principato->Cosenza->08:11
+Cosenza->Cerchiara di Calabria->06:04
+Amantea->Belvedere Marittimo->08:25
+Mendicino->Paola->06:31
+Corigliano-Rossano->Mendicino->07:38
+Rende->Rota Greca->07:30
+Montalto Uffugo->Castrolibero->07:33
+Calopezzati->Francavilla Marittima->06:13
+Cosenza->Cassano all'Ionio->08:30
+Cosenza->Rende->09:24
+San Lucido->Rende->06:02
+Trebisacce->Castrovillari->06:34
+Casali del Manco->Amantea->08:03
+Corigliano-Rossano->San Lucido->07:22
+Corigliano-Rossano->San Giovanni in Fiore->06:20
+Corigliano-Rossano->Grisolia->06:23
+Belsito->Cosenza->08:24
+Cassano all'Ionio->Longobardi->07:42
+Cosenza->Rende->08:17
+Paola->Praia a Mare->08:24
+Bisignano->Rende->07:42
+Spezzano della Sila->Bocchigliero->06:52
+Rende->Cosenza->07:49
+Paola->Celico->07:10
+Castrolibero->Marano Principato->06:53
+Cosenza->Castiglione Cosentino->06:10
+Castrolibero->Castrovillari->07:03
+Tarsia->Amantea->07:57
+Rende->Acri->06:04
+San Giovanni in Fiore->Acri->07:10
+Cosenza->Rende->08:27
+Fagnano Castello->Rose->07:54
+Grimaldi->Cosenza->08:44
+San Lucido->Cosenza->08:46
+San Marco Argentano->Cosenza->08:20
+Celico->Scalea->06:13
+Corigliano-Rossano->Cosenza->07:22
+Cariati->Terranova da Sibari->07:40
+Villapiana->Corigliano-Rossano->06:50
+Bisignano->Torano Castello->06:09
+Cosenza->Dipignano->06:49
+Spezzano della Sila->Cetraro->07:19
+Castrovillari->Castrolibero->07:14
+Lago->Cosenza->06:36
+Luzzi->Corigliano-Rossano->08:21
+Cosenza->Belvedere Marittimo->08:38
+Roseto Capo Spulico->Rende->06:31
+Spezzano della Sila->Corigliano-Rossano->08:27
+Trebisacce->Acri->06:03
+Cosenza->Corigliano-Rossano->08:40
+Mormanno->Verbicaro->08:54
+Cosenza->Bocchigliero->06:02
+Cosenza->Belmonte Calabro->08:19
+Castrolibero->Cosenza->09:42
+Corigliano-Rossano->Cosenza->08:37
+Verbicaro->Cosenza->08:06
+San Marco Argentano->San Lorenzo del Vallo->07:57
+Montalto Uffugo->Spezzano Albanese->06:16
+Montalto Uffugo->Acri->08:44
+Mormanno->Montalto Uffugo->07:41
+Paludi->Corigliano-Rossano->08:10
+Lungro->Luzzi->07:17
+Cassano all'Ionio->Castrovillari->08:05
+Carolei->Paola->06:30
+Corigliano-Rossano->Fuscaldo->07:50
+Mendicino->Rende->06:16
+Corigliano-Rossano->Guardia Piemontese->07:59
+Castrolibero->Diamante->08:16
+Paola->Rende->07:43
+Cellara->Luzzi->07:39
+Cosenza->Castiglione Cosentino->07:10
+Acri->Casali del Manco->08:34
+Cariati->Rende->07:38
+Corigliano-Rossano->Altomonte->07:07
+Cosenza->Saracena->06:31
+Rende->Cosenza->06:50
+Marano Marchesato->Rende->07:48
+Fuscaldo->Rocca Imperiale->07:52
+Mottafollone->Marano Principato->08:07
+Castrovillari->Montalto Uffugo->06:40
+Corigliano-Rossano->San Vincenzo La Costa->08:23
+Scalea->Acri->06:41
+San Giovanni in Fiore->Grimaldi->08:17
+Marano Principato->Dipignano->06:50
+Cassano all'Ionio->Corigliano-Rossano->08:04
+Corigliano-Rossano->Bisignano->08:47
+Crosia->Acri->06:44
+Amantea->Cosenza->08:11
+Crosia->Cariati->09:29
+Santa Domenica Talao->Paola->06:24
+Rende->Crosia->06:13
+San Giovanni in Fiore->Corigliano-Rossano->07:29
+Santa Caterina Albanese->Terranova da Sibari->07:06
+Cerisano->Cosenza->06:16
+Corigliano-Rossano->Cariati->07:35
+Luzzi->Bisignano->08:48
+Rende->Montalto Uffugo->07:01
+Acquappesa->Cosenza->07:04
+Corigliano-Rossano->Terranova da Sibari->08:52
+Cosenza->Montalto Uffugo->07:54
